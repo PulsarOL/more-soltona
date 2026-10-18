@@ -1,16 +1,13 @@
-# React + Vite
+# 🌌 Море Солтона
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Міжзоряний торговельний вузол Федерації вільної космічної торгівлі
 
-Currently, two official plugins are available:
+**«Море Солтона» — магазин товарів та артефактів Дейна Торсона**, натхненний світом космічних мандрівників і вільних торговців із циклу Андре Нортон [«Королева Сонця»](https://rozetka.com.ua/581260669/p581260669/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Десь на межі відомих світів, серед пилу далеких планет і забутих цивілізацій, існує місце, де зустрічаються мандрівники, торговці та шукачі рідкісних знахідок.
 
-## React Compiler
+Тут можна відшукати незвичайні технології, засоби захисту, транспорт для далеких подорожей, енергетичні ресурси, дивовижних істот та артефакти старих цивілізацій.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Це світ на перетині наукової фантастики, ретрофутуризму та атмосфери покинутих просторів, у якому за кожним товаром стоїть своя історія.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*Море Солтона — не просто місце торгівлі. Це місце зустрічі світів.*
